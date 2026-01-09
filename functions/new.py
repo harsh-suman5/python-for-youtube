@@ -8,4 +8,4 @@ def welcome():
     print("welcom to the lecture of functions by harsh sir.") # -> this is the syntax of defining a function
 
 # calling the function
-welcome()
+welcome
